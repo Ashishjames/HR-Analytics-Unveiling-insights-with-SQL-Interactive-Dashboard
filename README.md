@@ -43,5 +43,5 @@ Power BI:
 
 LINK : https://www.novypro.com/profile_projects/ashishjames?Popup=memberProject&Data=1714567354484x409732239251761500
 
-![Dashboard_preview](Dashboard_preview.JPG)
+![Dashboard_preview](Dashboard.JPG)
 
